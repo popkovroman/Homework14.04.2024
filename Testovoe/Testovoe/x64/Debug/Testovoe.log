@@ -1,0 +1,3 @@
+﻿  Testovoe.cpp
+C:\Users\Роман\source\repos\Testovoe\Testovoe\Testovoe.cpp(8,36): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Testovoe.vcxproj -> C:\Users\Роман\source\repos\Testovoe\x64\Debug\Testovoe.exe
